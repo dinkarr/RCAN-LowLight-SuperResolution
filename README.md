@@ -1,10 +1,6 @@
 # RCAN-LowLight-SuperResolution
 Joint low-light image denoising and 4× super-resolution using Residual Channel Attention Networks (RCAN). Enhances degraded images by reducing noise and recovering fine details for high-quality restoration.
 
-# RCAN-LowLight-SuperResolution
-
-Low-Light Image Enhancement and Super-Resolution using Residual Channel Attention Networks (RCAN)
-
 ## Overview
 
 This project focuses on enhancing low-light images and performing 4× super-resolution using a deep learning model based on the Residual Channel Attention Network (RCAN). The model restores spatial detail and improves brightness and clarity in poorly lit conditions.
